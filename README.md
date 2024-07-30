@@ -1,0 +1,1 @@
+For a full comprehensive documentation and the user manual of this project, please visit [Guardlens Real-Time Weapon Detection System](https://htootayzaaung.gitbook.io/guardlens-real-time-weapon-detection-system/).
